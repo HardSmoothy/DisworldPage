@@ -11,7 +11,7 @@
 > 1:サーバー紹介テンプレート <br>
 > 2:Github <br>
 > 3:Twitter <br>
-> ~~・著作権表示~~
+> ~~・著作権表示~~ 2/19 (v0.0.13)
 
 2.play (/play/)
 > ・Botの紹介(about.html)<br>
