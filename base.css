@@ -80,6 +80,11 @@ ul#main_menu {
 	margin: 10px 40px;		/*マージン*/
 }
 
+#img_index_d {
+	width:1000px; height:280px;	/*トップページのヘッダ画像の表示サイズを指定*/
+	margin: 10px 0px;		/*マージン*/
+}
+
 #content {
 	margin: 30px 40px 10px 40px;
 }
@@ -88,4 +93,5 @@ ul#main_menu {
 ============================================*/
 div#footer {
 	clear:both;			/*回り込みを解除する*/
+	margin: 20px 40px 40px 40px;
 }
