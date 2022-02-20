@@ -55,6 +55,9 @@ ul#main_menu {
 #img_index {
 	display:none;			/*トップページのヘッダ画像を非表示にする*/
 }
+#img_index_c {
+    display:none;
+}
 #img_subpage {
 	display:none;			/*トップページ以外のヘッダ画像を非表示にする*/
 }
