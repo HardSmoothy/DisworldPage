@@ -1,0 +1,26 @@
+このホームページの制作者
+ Hard Smoothy (Github: @HardSmoothy )
+
+参考文献
+ Qiita
+ HTMLクイックリファレンス (http://www.htmq.com/tutorial/)
+
+イラスト
+ Yaakiyu
+ DrEleven
+
+ゲーム制作
+ Yaakiyu
+ DrEleven
+
+Disworld Developer
+ --Main Developer--
+ Yaakiyu
+ DrEleven
+
+ --Developer--
+ (アルファベット順)
+  きのたこ
+  mksuke123
+  Takkun
+  sososo-Ex (Hard Smoothy)
