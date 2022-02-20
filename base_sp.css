@@ -36,17 +36,17 @@ ul#main_menu {
 	margin:0px; 			/*マージン0px*/
 }
 #main_menu li a {
-	background-color:#a0fd75;	/*背景色*/
+	background-color:#ffffff;	/*背景色*/
 	color:rgb(0, 0, 0);			/*文字色*/
-	width:90px; height:45px;	/*幅と高さ*/
+	width:110px; height:45px;	/*幅と高さ*/
 	padding:15px 0px 0px 60px;	/*パディング*/
-	background-image:url(images/buttion_b.png);	/*背景画像を指定*/
+	background-image:url(images/);	/*背景画像を指定*/
 	background-repeat:no-repeat; 	/*背景画像を繰り返さない*/
 	font-size:110%;			/*文字サイズを120%にする*/
 }
 #main_menu li a:hover {
-	background-color:#a0fd75; 	/*リンクにマウスが乗っても背景色は白のまま*/
-	background-image:url(images/buttion_b.png); /*リンクにマウスが乗っても同じ背景画像のまま*/
+	background-color:#ffffff; 	/*リンクにマウスが乗っても背景色は白のまま*/
+	background-image:url(images/); /*リンクにマウスが乗っても同じ背景画像のまま*/
 }
 
 /*============================================
