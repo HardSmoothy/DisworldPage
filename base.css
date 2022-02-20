@@ -95,3 +95,7 @@ div#footer {
 	clear:both;			/*回り込みを解除する*/
 	margin: 20px 40px 40px 40px;
 }
+
+iframe {
+	border: none;
+  }
