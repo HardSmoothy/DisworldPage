@@ -42,7 +42,7 @@ ul#main_menu {
 	padding:15px 0px 0px 60px;	/*パディング*/
 	background-image:url(images/buttion_b.png);	/*背景画像を指定*/
 	background-repeat:no-repeat; 	/*背景画像を繰り返さない*/
-	font-size:120%;			/*文字サイズを120%にする*/
+	font-size:110%;			/*文字サイズを120%にする*/
 }
 #main_menu li a:hover {
 	background-color:#a0fd75; 	/*リンクにマウスが乗っても背景色は白のまま*/
