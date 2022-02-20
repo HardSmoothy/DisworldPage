@@ -31,11 +31,11 @@ div#header img {
 /*============================================
 メインメニュー
 ============================================*/
-ul#menu {
+ul#main_menu {
 	width:100%; 			/*メインメニュー部分の幅*/
 	margin:0px; 			/*マージン0px*/
 }
-#menu li a {
+#main_menu li a {
 	background-color:#a0fd75;	/*背景色*/
 	color:rgb(0, 0, 0);			/*文字色*/
 	width:90px; height:45px;	/*幅と高さ*/
@@ -44,7 +44,7 @@ ul#menu {
 	background-repeat:no-repeat; 	/*背景画像を繰り返さない*/
 	font-size:120%;			/*文字サイズを120%にする*/
 }
-#menu li a:hover {
+#main_menu li a:hover {
 	background-color:#a0fd75; 	/*リンクにマウスが乗っても背景色は白のまま*/
 	background-image:url(images/buttion_b.png); /*リンクにマウスが乗っても同じ背景画像のまま*/
 }
@@ -62,32 +62,8 @@ ul#menu {
 /*============================================
 サブメニュー
 ============================================*/
-h2 {
-	width:100%; height:40px;	/*幅と高さ*/
-	padding:15px 0px 0px 10px;	/*パディング*/
-	font-size:16px;			/*フォントサイズ*/
-	background-image:none;		/*背景画像を無しにする*/
-	background-repeat:no-repeat;	/*背景画像を繰り返さない*/
-	background-color:#000033;	/*背景色*/
-	color:#ffffff;			/*文字色*/
-	clear:both;			/*フロートをクリアする*/
-}
-div#submenu {
-	width:100%;			/*幅の指定*/
-	margin:0px;			/*マージン*/
-	float:none;			/*フロートしない*/
-}
-div#submenu ul li a {
-	display:block;			/*リンク部分をブロック表示にする*/
-	width:100%; height:40px;	/*幅と高さ*/
-	padding:15px 0px 0px 10px;	/*パディング*/
-	text-decoration:none;		/*リンクの下線を無くす*/
-	border-bottom:1px dotted gray;	/*リンク領域の下部にボーダーを付ける*/
-	background-image:none;		/*リンク領域に背景画像を無しにする*/
-	background-repeat:no-repeat;	/*背景画像を繰り返さない*/
-	background-color:#cccccc;	/*背景色*/
-	color:#000000;			/*文字色*/
-}
+
+/*---*/
 
 /*============================================
 インフォメーション
